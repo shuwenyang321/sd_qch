@@ -2,29 +2,29 @@
 
 Update each section below to publish your next experiences. Duplicate a block, swap the details, and keep the format the same.
 
-## Investor Readiness Lab
-Date: 2024-06-22
-Time: 17:30
-Format: In-person
-Location: SD-QCH Commons
+## AI Enterprise Futures Roundtable
+Date: 2024-11-01
+Time: 15:00
+Format: Roundtable
+Location: UCSD Conference Room
 CTA: Request Invite | #connect
 
-Demystify pitch decks, financials, and data rooms with guidance from seed-stage investors and founders who have raised successfully.
+A facilitated discussion unpacking how AI reshapes market entry, compliance, and team design—welcoming voices joining in-room or online.
 
-## Outdoor Vision Walk
-Date: 2024-07-10
-Time: 08:00
-Format: Outdoor
-Location: Mission Trails
+## Deal Simulation Lab
+Date: 2024-11-15
+Time: 15:00
+Format: Simulation
+Location: TBD
 CTA: Join Waitlist | #connect
 
-Reset perspective on a guided Mission Trails hike featuring reflective prompts, peer coaching, and next-step mapping.
+Step into an MBA-style mock business negotiation that sharpens deal framing, collaborative communication, and stakeholder strategy in a hybrid, low-stakes setting.
 
-## Founder Finance Studio
-Date: 2024-08-03
-Time: 11:00
-Format: Online
-Location: Zoom Studio
-CTA: Save My Spot | #connect
+## Trail Talk & Wellness Hiking
+Date: TBD
+Time: TBD
+Format: Outdoor
+Location: TBD
+CTA: Get Updates | #connect
 
-A virtual working session unpacking money flows, pricing, and forecasting for early-stage creative ventures.
+Recharge on a community hike focused on wellbeing, casual founder conversations, and building trusted connections away from screens—with a reflection guide for remote friends.

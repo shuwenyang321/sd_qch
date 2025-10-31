@@ -439,15 +439,22 @@ h3 {
   min-width: 300px;
 }
 
+.events .event-date {
+  grid-row: 1 / span 2;
+  align-self: center;
+}
+
 .events .event-content {
-  display: grid;
-  grid-template-rows: auto 1fr auto;
+  display: flex;
+  flex-direction: column;
   gap: 0.6rem;
+  grid-row: 1 / span 2;
+  height: 100%;
 }
 
 .events .event-content .event-cta {
-  justify-self: start;
-  margin-top: 0.7rem;
+  align-self: flex-start;
+  margin-top: auto;
 }
 
 .events .event-card::after {
@@ -537,6 +544,10 @@ h3 {
 .highlight-card p {
   margin: 0;
   color: rgba(226, 232, 255, 0.78);
+}
+
+.highlight-card h3 {
+  color: #f8f9ff;
 }
 
 .gallery {
@@ -634,6 +645,16 @@ h3 {
 .disclaimer {
   font-size: 0.78rem;
   color: rgba(11, 15, 25, 0.45);
+}
+
+.connect-form .note {
+  font-size: 0.82rem;
+  font-weight: 600;
+  color: var(--accent-strong);
+  background: rgba(79, 70, 229, 0.1);
+  padding: 0.85rem 1rem;
+  border-radius: 12px;
+  border-left: 3px solid var(--accent);
 }
 
 .footer {
