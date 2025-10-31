@@ -403,12 +403,15 @@
 
       function parseEventsMarkdown(markdown) {
         const normalized = markdown.replace(/\r\n/g, "\n");
-        const blocks = normalized.match(/^##\s.+?(?=^##\s|\Z)/gms);
-        if (!blocks) return [];
+        const blocks = normalized
+          .split(/\n(?=##\s)/)
+          .map((block) => block.trim())
+          .filter((block) => block.startsWith("## "));
+        if (!blocks.length) return [];
 
         return blocks
           .map((block) => {
-            const lines = block.trim().split("\n");
+            const lines = block.split("\n");
             const headingLine = lines.shift();
             const title = headingLine.replace(/^##\s*/, "").trim();
 
